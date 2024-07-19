@@ -21,7 +21,6 @@ function Footer() {
                 <div className=" md:flex md:gap-x-16  ">
                   <div className="flex flex-col py-3 ">
                     <label htmlFor="fname" className=" pt-sans-narrow-bold">
-                     
                       First Name
                     </label>
                     <input
@@ -32,7 +31,6 @@ function Footer() {
                   </div>
                   <div className="flex flex-col py-3">
                     <label htmlFor="lname" className=" pt-sans-narrow-bold">
-                     
                       Last Name
                     </label>
                     <input
@@ -44,7 +42,6 @@ function Footer() {
                 </div>
                 <div className="py-3 flex flex-col">
                   <label htmlFor="email" className=" pt-sans-narrow-bold">
-                   
                     Email
                   </label>
                   <input
@@ -56,28 +53,46 @@ function Footer() {
                 <div>
                   <div className="md:flex  justify-between  py-4">
                     <div className="pt-sans-narrow-bold">Interested in:</div>
-                    <div className="flex ">
-                      <input type="radio" id="buy" />
+                    <div className="flex items-center ">
+                      <input
+                        type="radio"
+                        id="buy"
+                        className="
+      appearance-none
+      w-4 h-4 border-2 border-blue-500 rounded-full
+    "
+                      />
                       <label htmlFor="buy" className="px-3 pt-sans-narrow-bold">
-                       
                         Buy
                       </label>
-                      <input type="radio" id="rent" />
+                      <input
+                        type="radio"
+                        id="rent"
+                        className="
+      appearance-none
+      w-4 h-4 border-2 border-blue-500 rounded-full
+    "
+                      />
                       <label
                         htmlFor="rent"
                         className="px-3  pt-sans-narrow-bold"
                       >
-                       
                         Rent
                       </label>
 
-                      <input type="radio" id="other" />
+                      <input
+                        type="radio"
+                        id="other"
+                        className="
+      appearance-none
+      w-4 h-4 border-2 border-blue-500 rounded-full
+    "
+                      />
 
                       <label
                         htmlFor="other"
                         className="px-3 pt-sans-narrow-bold"
                       >
-                       
                         Other
                       </label>
                     </div>

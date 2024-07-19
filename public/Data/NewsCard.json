@@ -1,0 +1,44 @@
+{
+    "newscard": [
+        {
+            "id": 1,
+            "date": "Nov 1, 2025",
+            "heading": "Choosing Your Next Apartment",
+            "author": "By John Doe",
+            "image": "https://static.wixstatic.com/media/57b1a3a1c5c844299f5a99f16a62149b.jpeg/v1/fill/w_731,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpeg",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, quisquam eveniet ad libero modi fugit corporis deleniti architecto! Maxime quod autem necessitatibus voluptates tenetur voluptas iusto adipisci, quos doloremque ratione odit natus, unde vel laudantium dolores velit cum esse reiciendis aliquam, a vitae atque quis. Eius esse temporibus perferendis mollitia placeat! Aperiam corrupti temporibus facilis sunt, fugit exercitationem maxime sequi voluptatem deserunt quibusdam architecto quas, perspiciatis, provident iste quidem nobis ea sit vel? Iure, sapiente excepturi, amet placeat est vitae dolor voluptates quos consequatur molestiae doloremque! Sunt corrupti quasi totam blanditiis, aspernatur explicabo! Rerum in excepturi sint ullam, facere facilis."
+        },
+        {
+            "id": 2,
+            "date": "Dec 15, 2025",
+            "heading": "Top 10 Travel Destinations for 2026",
+            "author": "By Jane Smith",
+            "image": "https://static.wixstatic.com/media/defe51ec28b144bf837e391e91626341.jpg/v1/fill/w_731,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "description": "Discover the most breathtaking travel spots for 2026! From pristine beaches to vibrant cities, explore the top 10 destinations that should be on your travel list. Experience unique cultures, cuisines, and adventures in these must-visit places.            Your content collection is already set up with fields and content. Add your own by editing each field, or import CSV files to your content collection. You can create fields for rich content, images, videos and more."
+        },
+        {
+            "id": 3,
+            "date": "Jan 5, 2026",
+            "heading": "How to Stay Fit During Winter",
+            "author": "By Mike Johnson",
+            "image": "https://static.wixstatic.com/media/ea8ca5a4eed94b4b9f84309b740656ac.jpg/v1/fill/w_731,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, quisquam eveniet ad libero modi fugit corporis deleniti architecto! Maxime quod autem necessitatibus voluptates tenetur voluptas iusto adipisci, quos doloremque ratione odit natus, unde vel laudantium dolores velit cum esse reiciendis aliquam, a vitae atque quis. Eius esse temporibus perferendis mollitia placeat! Aperiam corrupti temporibus facilis sunt, fugit exercitationem maxime sequi voluptatem deserunt quibusdam architecto quas, perspiciatis, provident iste quidem nobis ea sit vel? Iure, sapiente excepturi, amet placeat est vitae dolor voluptates quos consequatur molestiae doloremque! Sunt corrupti quasi totam blanditiis, aspernatur explicabo! Rerum in excepturi sint ullam, facere facilis."
+        },
+        {
+            "id": 4,
+            "date": "Feb 20, 2026",
+            "heading": "The Future of Electric Vehicles",
+            "author": "By Emily Davis",
+            "image": "https://static.wixstatic.com/media/5efd91ceb2334b4aa63e177d144f4168.jpg/v1/fill/w_731,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, quisquam eveniet ad libero modi fugit corporis deleniti architecto! Maxime quod autem necessitatibus voluptates tenetur voluptas iusto adipisci, quos doloremque ratione odit natus, unde vel laudantium dolores velit cum esse reiciendis aliquam, a vitae atque quis. Eius esse temporibus perferendis mollitia placeat! Aperiam corrupti temporibus facilis sunt, fugit exercitationem maxime sequi voluptatem deserunt quibusdam architecto quas, perspiciatis, provident iste quidem nobis ea sit vel? Iure, sapiente excepturi, amet placeat est vitae dolor voluptates quos consequatur molestiae doloremque! Sunt corrupti quasi totam blanditiis, aspernatur explicabo! Rerum in excepturi sint ullam, facere facilis."
+        },
+        {
+            "id": 5,
+            "date": "Mar 10, 2026",
+            "heading": "Healthy Eating on a Budget",
+            "author": "By Sarah Lee",
+            "image": "https://static.wixstatic.com/media/f1b42bb3d51c45cfa03655fd396b2513.jpg/v1/fill/w_731,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, quisquam eveniet ad libero modi fugit corporis deleniti architecto! Maxime quod autem necessitatibus voluptates tenetur voluptas iusto adipisci, quos doloremque ratione odit natus, unde vel laudantium dolores velit cum esse reiciendis aliquam, a vitae atque quis. Eius esse temporibus perferendis mollitia placeat! Aperiam corrupti temporibus facilis sunt, fugit exercitationem maxime sequi voluptatem deserunt quibusdam architecto quas, perspiciatis, provident iste quidem nobis ea sit vel? Iure, sapiente excepturi, amet placeat est vitae dolor voluptates quos consequatur molestiae doloremque! Sunt corrupti quasi totam blanditiis, aspernatur explicabo! Rerum in excepturi sint ullam, facere facilis."
+        }
+    ]
+}

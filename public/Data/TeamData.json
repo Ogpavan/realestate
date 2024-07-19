@@ -1,0 +1,51 @@
+{
+    "team": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "realtor": "#123.324.422",
+            "image": "https://static.wixstatic.com/media/6b855be7965f47d4b50a7638426e97a6.jpg/v1/fill/w_353,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "email": "sarahlee@gmail.com",
+            "phone": "9876543210"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "realtor": "#123.324.423",
+            "image": "https://static.wixstatic.com/media/9061fb1337b84e07916475589dab4bad.jpg/v1/fill/w_353,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "email": "janesmith@gmail.com",
+            "phone": "9876543211"
+        },
+        {
+            "id": 3,
+            "name": "Michael Johnson",
+            "realtor": "#123.324.424",
+            "image": "https://static.wixstatic.com/media/84770f_5ed92818526a4fe2bff0e0bb3f569348~mv2_d_6046_4035_s_4_2.jpg/v1/fill/w_353,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "email": "michaeljohnson@gmail.com",
+            "phone": "9876543212"
+        },
+        {
+            "id": 4,
+            "name": "Emily Davis",
+            "realtor": "#123.324.425",
+            "image": "https://static.wixstatic.com/media/5b159597b8e84c0792e853e14072eac4.jpg/v1/fill/w_353,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "phone": "9876543213"
+        },
+        {
+            "id": 5,
+            "name": "David Brown",
+            "realtor": "#123.324.426",
+            "image": "https://static.wixstatic.com/media/536cc69924d547bd90bb77c8456904ec.jpg/v1/fill/w_353,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "email": "davidbrown@gmail.com",
+            "phone": "9876543214"
+        },
+        {
+            "id": 6,
+            "name": "Sarah Wilson",
+            "realtor": "#123.324.427",
+            "image": "https://static.wixstatic.com/media/c2d872eb10b1421fada9e6cbc4d1294e.jpg/v1/fill/w_353,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg",
+            "email": "sarahwilson@gmail.com",
+            "phone": "9876543215"
+        }
+    ]
+}

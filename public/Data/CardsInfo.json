@@ -1,0 +1,75 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "street": "17081 Perry Street",
+        "city": "Sain Francisco, CA, USA",
+        "price": "$1,000,000",
+        "size": {
+          "beds": 3,
+          "baths": 2,
+          "levels": 3,
+          "sqft": 1234
+        },
+        "type": "BUY",
+        "image": "https://static.wixstatic.com/media/84770f_c73843e2be40458a8857a17eb5de3d84~mv2_d_4896_3264_s_4_2.jpg/v1/fill/w_544,h_325,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg"
+      },
+      {
+        "id": 2,
+        "street": "2200 Wharton Street",
+        "city": "Philadelphia, PA, USA",
+        "price": "$800,000",
+        "size": {
+          "beds": 4,
+          "baths": 3,
+          "levels": 2,
+          "sqft": 2100
+        },
+        "type": "RENT",
+        "image": "https://static.wixstatic.com/media/84770f_461a280a171041da95705f2f064c9afc~mv2_d_6272_4181_s_4_2.jpeg/v1/fill/w_544,h_325,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpeg"
+      },
+      {
+        "id": 3,
+        "street": "385 Elm Avenue",
+        "city": "Chicago, IL, USA",
+        "price": "$1,200,000",
+        "size": {
+          "beds": 5,
+          "baths": 4,
+          "levels": 3,
+          "sqft": 3000
+        },
+        "type": "BUY",
+        "image": "https://static.wixstatic.com/media/84770f_ab580106fc944e1cb9b2bdeca3a1296c~mv2_d_2917_1843_s_2.jpeg/v1/fill/w_544,h_325,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpeg"
+      },
+      {
+        "id": 4,
+        "street": "410 Maple Drive",
+        "city": "Seattle, WA, USA",
+        "price": "$950,000",
+        "size": {
+          "beds": 3,
+          "baths": 2,
+          "levels": 2,
+          "sqft": 1800
+        },
+        "type": "RENT",
+        "image": "https://static.wixstatic.com/media/84770f_c73843e2be40458a8857a17eb5de3d84~mv2_d_4896_3264_s_4_2.jpg/v1/fill/w_544,h_325,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpg"
+      },
+      {
+        "id": 5,
+        "street": "550 Pine Street",
+        "city": "New York City, NY, USA",
+        "price": "$1,500,000",
+        "size": {
+          "beds": 4,
+          "baths": 3,
+          "levels": 4,
+          "sqft": 2500
+        },
+        "type": "BUY",
+        "image": "https://static.wixstatic.com/media/84770f_ab580106fc944e1cb9b2bdeca3a1296c~mv2_d_2917_1843_s_2.jpeg/v1/fill/w_544,h_325,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-place-holder.jpeg"
+      }
+    ]
+  }
+  
